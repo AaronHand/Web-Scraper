@@ -1,0 +1,44 @@
+from selenium import webdriver
+
+driver = webdriver.Firefox()
+
+driver.get("http://www.crossfit.com/mt-archive2/2014_08.html")
+
+variable = driver.find_element_by_class_name('blogbody')
+TUESDAY 131231
+Handstand walk 100 meters
+If you fall, restart at the point of contact furthest from the finish.
+Post time to comments.
+Compare to 101009.
+Enlarge Image
+Moe Kelsey.
+Backward Roll to Support at CrossFit Headquarters - video [ipod] [mov] [HD mov]
+"2013: Beloved Suffering" by Hilary Achauer, CrossFit Journal article [pdf]
+Posted by Pukie at 5:00 PM | Comments (94)TUESDAY 131231
+Handstand walk 100 meters
+If you fall, restart at the point of contact furthest from the finish.
+Post time to comments.
+Compare to 101009.
+Enlarge Image
+Moe Kelsey.
+Backward Roll to Support at CrossFit Headquarters - video [ipod] [mov] [HD mov]
+"2013: Beloved Suffering" by Hilary Achauer, CrossFit Journal article [pdf]
+Posted by Pukie at 5:00 PM | Comments (94)TUESDAY 131231
+Handstand walk 100 meters
+If you fall, restart at the point of contact furthest from the finish.
+Post time to comments.
+Compare to 101009.
+Enlarge Image
+Moe Kelsey.
+Backward Roll to Support at CrossFit Headquarters - video [ipod] [mov] [HD mov]
+"2013: Beloved Suffering" by Hilary Achauer, CrossFit Journal article [pdf]
+Posted by Pukie at 5:00 PM | Comments (94)TUESDAY 131231
+Handstand walk 100 meters
+If you fall, restart at the point of contact furthest from the finish.
+Post time to comments.
+Compare to 101009.
+Enlarge Image
+Moe Kelsey.
+Backward Roll to Support at CrossFit Headquarters - video [ipod] [mov] [HD mov]
+"2013: Beloved Suffering" by Hilary Achauer, CrossFit Journal article [pdf]
+Posted by Pukie at 5:00 PM | Comments (94)
