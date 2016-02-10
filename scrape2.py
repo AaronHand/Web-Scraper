@@ -26,9 +26,10 @@ with open('stuff.txt','w') as f:
         year = '{:2d}'.format(startDate.year)
         startDate += datetime.timedelta(+1)
 
+
         driver.get("http://www.crossfit.com/mt-archive2/" + str(year) + "_" + month +".html")
-        elem = driver.find_element_by_xpath('/html/body/table/tbody/tr[2]/td[3]/table/tbody/tr/td/div[13]')
-        f.write(elem.text)
+        for item in driver.find_elements_by_class_name('blogbody'):
+            f.write(item.text)
 
 
 
